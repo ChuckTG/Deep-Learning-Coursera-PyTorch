@@ -1,1 +1,1 @@
-#Deep Learning coursera from deeplearning.ai practicals in PyTorch
+Coursera Deep Learning https://www.coursera.org/specializations/deep-learning PyTorch
