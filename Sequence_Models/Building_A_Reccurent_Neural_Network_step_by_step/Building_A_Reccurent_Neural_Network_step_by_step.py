@@ -1,4 +1,5 @@
 import torch
+import numpy as np
 
 # implement softmax and tanh in torch
 softmax = lambda x : torch.exp(x)/torch.sum(torch.exp(x))
@@ -220,3 +221,4 @@ print("y.shape = ", y_tmp.shape)
 print("caches[1][1][1] =\n", caches_tmp[1][1][1])
 print("c[1][2][1]", c_tmp[1][2][1])
 print("len(caches) = ", len(caches_tmp))
+
